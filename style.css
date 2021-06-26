@@ -1,0 +1,47 @@
+element.style {
+}
+user agent stylesheet
+.line-content {
+    padding: 0px 5px !important;
+}
+user agent stylesheet
+td {
+    display: table-cell;
+    vertical-align: baseline;
+    padding: 0px !important;
+}
+user agent stylesheet
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: pre;
+    font-size: initial;
+    font-family: monospace;
+    tab-size: 4;
+    border-spacing: 0px;
+}
+element.style {
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+user agent stylesheet
+html {
+    display: block;
+}
+
+display block
+font-family Rubik, sans-serif
+height 7091px
+margin-bottom 0px
+margin-left 0px
+margin-right 0px
+margin-top 0px
+padding-bottom 0px
+padding-left 0px
+padding-right 0px
+padding-top 0px
